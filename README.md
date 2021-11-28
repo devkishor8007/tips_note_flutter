@@ -1,6 +1,6 @@
-# tips_note_fluxfire
+# Tips Note Riverpod Flutter Firebase
 
-A new Flutter project.
+A new Flutter project made with the help of flutter, firebase and manage the state using the riverpod.
 
 ## Getting Started
 
